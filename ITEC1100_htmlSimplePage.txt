@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<h1> Simple Webpage </h1>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Gymnastics">Wikipedia Gymnastics Page</a>
+<b> This is a description about the sport of gymnastics</b>
+</p>
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Nadia_Com%C4%83neci_Montreal1976f.jpg/500px-Nadia_Com%C4%83neci_Montreal1976f.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail">
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Figure_skating">Wikipedia Figure Skating Page</a>
+<b> This is a description about the sport of figure skating </b>
+</p>
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Camel_yuna1.jpg/250px-Camel_yuna1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail">
+
+
+<p>
+<table border = "1">
+	<tr>
+		<th> Sport </th>
+		<th> An Athlete </th>
+		<th> Something Else </th>
+	</tr>
+	<tr>
+		<td>Gymnastics</td>
+		<td>Simone Biles</td>
+		<td>I like strawberries</td>
+	</tr>
+	<tr>
+		<td>Figure Skating</td>
+		<td>Yuna Kim</td>
+		<td>Bears are fluffy</td>
+	</tr>
+</table>
